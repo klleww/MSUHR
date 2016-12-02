@@ -1,0 +1,48 @@
+Client Info
+
+User Agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.98 Safari/537.36
+Remote Address : 210.4.8.252
+
+Server Info
+
+Host : bigeye.msugensan.edu.ph
+PHP Version : 5.5.14
+Server : Apache
+Admin : [no address given]
+
+Document Root : /srv/www/htdocs
+ROOT_PATH : /srv/www/htdocs/MSUHR
+
+OrangeHRM Installation Log
+
+Fri, 02 Dec 2016 04:07:30 +0000 DB Creation - Starting
+Fri, 02 Dec 2016 04:07:30 +0000 DB Creation - Done
+Fri, 02 Dec 2016 04:07:30 +0000 DB Creation - No Errors
+Fri, 02 Dec 2016 04:07:32 +0000 Fill Data Phase 1 - Starting
+Fri, 02 Dec 2016 04:07:32 +0000 Fill Data Phase 1 - Connected to the DB Server
+Fri, 02 Dec 2016 04:07:32 +0000 Fill Data Phase 1 - Selected the DB
+Fri, 02 Dec 2016 04:07:32 +0000 Fill Data Phase 1 - Reading DB Script
+Fri, 02 Dec 2016 04:07:32 +0000 Fill Data Phase 1 - Opened DB Script
+Fri, 02 Dec 2016 04:07:32 +0000 Fill Data Phase 1 - Read DB script
+Fri, 02 Dec 2016 04:07:32 +0000 Fill Data Phase 1 - There are 284 Statements in the DB script
+Fri, 02 Dec 2016 04:07:41 +0000 Fill Data Phase 1 - Done
+Fri, 02 Dec 2016 04:07:41 +0000 Fill Data Phase 1 - No Errors
+Fri, 02 Dec 2016 04:07:43 +0000 Fill Data Phase 2 - Starting
+Fri, 02 Dec 2016 04:07:43 +0000 Fill Data Phase 2 - Connected to the DB Server
+Fri, 02 Dec 2016 04:07:43 +0000 Fill Data Phase 2 - Selected the DB
+Fri, 02 Dec 2016 04:07:43 +0000 Fill Data Phase 2 - Reading DB Script
+Fri, 02 Dec 2016 04:07:43 +0000 Fill Data Phase 2 - Opened DB Script
+Fri, 02 Dec 2016 04:07:43 +0000 Fill Data Phase 2 - Read DB script
+Fri, 02 Dec 2016 04:07:43 +0000 Fill Data Phase 2 - There are 127 Statements in the DB script
+Fri, 02 Dec 2016 04:07:44 +0000 Fill Data Phase 1 - Connected to the DB Server
+Fri, 02 Dec 2016 04:07:44 +0000 Fill Data Phase 2 - Done
+Fri, 02 Dec 2016 04:07:44 +0000 Fill Data Phase 2 - No Errors
+Fri, 02 Dec 2016 04:07:46 +0000 Create DB user - Starting
+Fri, 02 Dec 2016 04:07:46 +0000 Create DB user - Done
+Fri, 02 Dec 2016 04:07:46 +0000 Create DB user - No Errors
+Fri, 02 Dec 2016 04:07:48 +0000 Create OrangeHRM user - Starting
+Fri, 02 Dec 2016 04:07:48 +0000 Create OrangeHRM user - Done
+Fri, 02 Dec 2016 04:07:48 +0000 Create OrangeHRM user - No Errors
+Fri, 02 Dec 2016 04:07:50 +0000 Write Conf - Starting
+Fri, 02 Dec 2016 04:07:50 +0000 Write Conf - Done
+Fri, 02 Dec 2016 04:07:50 +0000 Write Conf - No Errors
